@@ -1,0 +1,4 @@
+ ID,CustomerID,Name,Age,PlanType,MonthlySpend,ContractLength,UsageGB,Complaints,Created,Updated
+3,3,Alice Johnson,40,Postpaid,120,12,50,1,2025-03-02T13:42:31.045Z,2025-03-02T13:42:31.045Z
+2,2,Jane Smith,25,Postpaid,80,24,30,0,2025-03-02T13:40:03.352Z,2025-03-02T13:40:03.352Z
+1,1,John Doe,30,Prepaid,50,12,15,2,2025-03-02T13:38:22.420Z,2025-03-02T13:38:22.420Z
